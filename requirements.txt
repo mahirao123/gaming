@@ -1,3 +1,6 @@
 this is chat application
 emogi
 colors
+dark mode
+videos
+audios
